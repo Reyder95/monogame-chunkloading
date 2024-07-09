@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/ball.png","C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.0987202
+"C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/black_tile.png","C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/bin/DesktopGL/Content/black_tile.xnb","TextureProcessor","Texture2DContent",3465,4000085,0.1763009
+"C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/white_tile.png","C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/bin/DesktopGL/Content/white_tile.xnb","TextureProcessor","Texture2DContent",4850,4000085,0.0742253

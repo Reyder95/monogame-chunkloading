@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/ball.png</File>
+    <File>C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/black_tile.png</File>
+    <File>C:/Users/reyd0/source/repos/2D Game Dev Practice/2D Game Dev Practice/Content/white_tile.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
